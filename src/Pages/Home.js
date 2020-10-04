@@ -17,7 +17,6 @@ const home = () => {
           </Link>
         </Banner>
       </Hero>
-
       <AboutMe />
     </>
   );
